@@ -1,0 +1,120 @@
+img{
+    height: 800px;
+}
+
+
+.sectios{
+
+    display: flex;
+    justify-content:left;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-left: 140px;
+}
+
+section{
+
+    margin: 1px;
+    height: 100px;
+    width: 560px;
+}
+
+h4{
+    text-align: center;
+}
+
+.imagen img{
+    height: 700px;
+    width: 480;
+
+}
+
+.sec-cuidados{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ }
+
+.titulo h4{
+    margin-top: 650px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+
+ .cdds{
+    margin: 30px;
+    text-align: center;
+    height: 250px;
+    width: 500px;
+    margin-inline: color black;
+ }
+ 
+ .tittl h4{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+
+ .coments{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+ }
+
+ .card{
+    width:200px;
+ }
+
+ .icono{
+    width: 23px;
+    height: 23px;
+ }
+
+ .form h4{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+
+ .direcciondiv{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-left: 140px;
+
+ }
+ 
+ .direccimg img{
+    width: 400px;
+    height: 600px;
+ }
+
+ .Formulario{
+    display: flex;
+    flex-direction: column;
+
+ }
+
+ .Formulario form{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    
+    width: 900px;
+
+ }
+
+footer{
+    background-color: black;
+    padding: 2px;
+    color: white;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+}
+
+
